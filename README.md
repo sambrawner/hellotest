@@ -1,1 +1,1 @@
-checking my permissions for a basic porject on github.
+checking my permissions for a basic poorject on github.
