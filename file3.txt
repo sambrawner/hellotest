@@ -1,0 +1,3 @@
+file3 has some new stuff in it
+
+can same sync?
